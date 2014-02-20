@@ -3,10 +3,10 @@
  * Component dependencies
  */
 
-var o = require('jquery');
-var type = require('type');
-var free = require('tags-free');
-var Pager = require('pager');
+var o = require('component-jquery');
+var type = require('component-type');
+var free = require('cristiandouce-tags-free');
+var Pager = require('component-pager');
 
 /**
  * Expose `DataTable`

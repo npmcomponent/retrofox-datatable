@@ -1,0 +1,23 @@
+{
+  "name": "retrofox-datatable",
+  "description": "it allows manage data in a table. Paginator, sorting, etc.",
+  "version": "0.1.2",
+  "keywords": [
+    "datatable",
+    "data",
+    "sorttable"
+  ],
+  "styles": [
+    "datatable.css"
+  ],
+  "dependencies": {
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "visionmedia-superagent": "git://github.com/npmcomponent/visionmedia-superagent.git",
+    "component-pager": "git://github.com/npmcomponent/component-pager.git",
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "cristiandouce-tags-free": "git://github.com/npmcomponent/cristiandouce-tags-free.git"
+  },
+  "license": "MIT"
+}
